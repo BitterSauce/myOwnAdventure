@@ -1,0 +1,38 @@
+﻿<!DOCTYPE HTML>
+<html>
+<h1>You decide that you want to expand your perception of life and decide to travel to a different country.</h1>
+<head>
+<style> 
+.country {
+	background-color: tomato;
+	border: 2px solid black;
+	color: white;
+	margin: 20px;
+	padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="country">
+<h4>Vienna</h4>
+<a href="Vienna.html"></a>
+</div>
+
+<div class="country">
+<h4>Paris</h4>
+<p>You must be lucky to be able to afford this destination that everyone dreams of. 
+Art, Architecture, Cinematic scenes and all kinds of beautiful cafe's in the world.
+Not to mention the parties and the night life. It is best to bring a friend.</p>
+</div>
+
+<div class="country">
+<h4>Cairo</h4>
+<p>Cairo? Indiana Jones fantacies? not quite, Cairo is home to multiple experiences, the 1001 Arabian Nights, 
+Tombs of the Pharaohs and the magic of the desert. 
+You will start to enjoy the culture, music and get a glipmse of a chaotic life...</p>
+</div>
+
+</body>
+</html>
+

@@ -1,0 +1,12 @@
+﻿<html>
+<h1 style=color:gold;">Classy...</h1>
+<head>
+<body style="background-color:maroon;">
+<img src="(https://www.bbc.com/travel/article/20210524-how-vienna-built-a-gender-equal-city)">
+<img src="(https://www.ontheluce.com/wp-content/uploads/2014/09/schonnbrun-5.jpg.webp)">
+<p1 style="color:gold;">Vienna is a beautiful place where you will appreciate the beautiful gardens and classical architecture. 
+The calm and safe environment is perfect for spending 
+calm and entertaining vacation with your significant other as a senior...</p>
+</body>
+</head>
+</html>
